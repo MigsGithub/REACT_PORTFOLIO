@@ -1,0 +1,11 @@
+
+    .e-card-image1 {
+        background: url('../../Images/2.png');
+        height: 200px;
+        ;
+    }
+
+    .e-card {
+        width: 300px;
+        margin: auto;
+    }
